@@ -1,0 +1,20 @@
+{
+	"name": "discord-selfbot",
+	"version": "1.0.0",
+	"description": "A Discord selfbot with voice channel management and admin commands.",
+	"main": "index.js",
+	"scripts": {
+	  "start": "node index.js"
+	},
+	"dependencies": {
+	  "discord.js-selfbot-v13": "^2.12.0",
+	  "@discordjs/voice": "^0.14.0",
+	  "dotenv": "^16.0.3"
+	},
+	"engines": {
+	  "node": ">=16.9.0"
+	},
+	"author": "Your Name",
+	"license": "MIT"
+  }
+  

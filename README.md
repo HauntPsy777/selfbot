@@ -1,4 +1,4 @@
-# 🤖 Zerexxx SelfBot
+# SelfBot
 
 A simple Discord selfbot built with **Node.js** and **discord.js-selfbot-v13**.
 
